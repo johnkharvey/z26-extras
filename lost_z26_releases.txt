@@ -1,0 +1,11 @@
+The Windows BETA release:
+ - https://www.biglist.com/cgi-bin/wilma/wilma_hiliter/stella/200302/msg00056.html
+ --- Sat, 8 Feb 2003 13:11:04 -0800
+ --- Z26 for Windows BETA
+ --- https://whimsey.com/z26beta/
+
+The linux BETA release:
+ - https://www.biglist.com/lists/stella/archives/200404/msg00328.html
+ --- Fri, 16 Apr 2004 01:43:10 -0400 (EDT)
+ --- http://www.hardcoders.org/z26/z26_linux_work_20040416.tar.gz
+
