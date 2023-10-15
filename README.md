@@ -1,6 +1,10 @@
-### This repository contains a number of files referenced from the z26 project.
+## This repository contains a number of files referenced from the z26 project.
 
-# Contents:
+ * The z26 emulator can be found at https://www.whimsey.com/z26/
+
+ * A mirror also exists at https://github.com/johnkharvey/z26
+
+### Contents:
 
 2600_demo_roms/interlaced_cube_demo_2600/cube_imp.bin
  - The first ever interlaced demo for the Atari 2600
